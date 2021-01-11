@@ -1,0 +1,17 @@
+*{
+    margin:0;
+    padding: 0;
+}
+h1,h2,p{
+    margin:0;
+    padding: 0 !important;
+}
+.header-area {
+    background: #34495e;
+}
+
+.section-1{
+    background-image: url(sssa.jpg) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
